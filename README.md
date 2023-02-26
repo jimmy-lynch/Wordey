@@ -8,4 +8,4 @@ Key concepts utilized include:
 - NavigationStack and NavigationLink
 - TextField
 
-<img src="https://github.com/appteamcarolina/s23-academy-mp04-wordey-jimmy-lynch/blob/main/wordey.gif" width=300>
+<img src="https://github.com/jimmy-lynch/Wordey-/blob/main/wordey.gif" width=300>
